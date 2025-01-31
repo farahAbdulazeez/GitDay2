@@ -8,7 +8,7 @@ public class DemoDay2 {
 		 int b = 20;
 		 
 		 System.out.println(a +b);
-		// this is a test test
+		// this is a test test test
 	}
 
 }
