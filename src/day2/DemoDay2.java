@@ -18,6 +18,9 @@ public class DemoDay2 {
 	}
 	public void divide(int a, int b) {
 		System.out.println(a / b);
+		int a = 1;
+		int b = 2;
 	}
+	// hello world
 
 }
