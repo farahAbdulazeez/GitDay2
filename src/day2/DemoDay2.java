@@ -22,5 +22,5 @@ public class DemoDay2 {
 		int b = 2;
 	}
 	// hello world
-
+//this is a practice
 }
